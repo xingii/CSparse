@@ -1,0 +1,21 @@
+{
+  "type": "Standard",
+  "name": "qRoadMarkingPan2019",
+  "icon": ":/CC/plugin/qRoadMarkingPan2019/icon.png",
+  "description": "Road-marking extraction plugin (Pan 2019 adaptation baseline)",
+  "authors": [
+    {
+      "name": "Codex"
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Codex"
+    }
+  ],
+  "references": [
+    {
+      "text": "Pan et al. 2019 road marking extraction"
+    }
+  ]
+}
